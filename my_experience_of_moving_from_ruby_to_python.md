@@ -16,7 +16,7 @@ In Ruby, gems are the easy way to install standard third-party libraries. In pyt
 I friend of mine recommended i start with pip. 
 
 
-###My final thughts
+###My final thoughts
 
 Python’s is great for functional programming. We can create pure functions without much effort and pass them like any other variable.
 But you can’t always use your functions with Python’s libraries.
