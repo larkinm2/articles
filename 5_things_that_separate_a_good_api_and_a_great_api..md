@@ -21,7 +21,7 @@ API’s are the same way. If something is hindering your users from accessing yo
 
 Some companies might say providing a complaint box or support email is enough, but great evangelists/advocates know better. The second a user signs up for an access key they should be provided with an outlet for support/complaints. More on this later…
 
-###2. Interactive Documentation
+###2. Documentation - "The Docs"
 
 I believe that a developers most precious asset is time. If you can save a developer an hour off of his/hers day, it definitely makes them want to come back and use the API again and again.
  
