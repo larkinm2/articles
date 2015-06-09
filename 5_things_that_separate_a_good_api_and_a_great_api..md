@@ -17,7 +17,7 @@ Imagine the power of harnessing other developers experiences to benefit the user
 
 Any great product has to shift or change depending on customer feedback. If an ingredient in a product you provides gives everyone a rash or makes everyone sick then you have to take it out and replace it with something else. 
 
-API’s are the same way. If something is hindering your users from using accessing your data properly then you have to make the changes to fix it. This also means providing your users with  an outlet to express their concerns.
+API’s are the same way. If something is hindering your users from accessing your data properly then you have to make the changes to fix it. This also means providing your users with  an outlet to express their concerns.
 
 Some companies might say providing a complaint box or support email is enough, but great evangelists/advocates know better. The second a user signs up for an access key they should be provided with an outlet for support/complaints. More on this later…
 
