@@ -3,9 +3,9 @@
 
 ###5. Helpful Errors
 
-Being able to read through your errors is key to becoming a good developer. Often times its how developers know how to take the next stop in a process. Invalid requests from a user or even a server side error HAS TO be displayed. 
+Being able to read through your errors is key to becoming a good developer. Often times it's how developers know to take the next stop. Invalid requests from a user or even a server side error HAS TO be displayed in the response of the API. 
 
-I can not tell you how many times I have heard new and old developers frustration with the lack of errors an API provides. There are plenty of API’s on the market that do similar things, so you do not want to give developers an excuse to go to the competition. Ideally errors should be displayed the same way (JSON or XML) you would receive the data response. Some of the best RESTful APi’s proudly display basic 404 or 500 errors that help developers either fix their errors or include a query they might have missed in the request.
+I can not tell you how many times I have heard new and old developers express frustration with the lack of errors an API provides. There are plenty of APIs on the market that do similar things, so you do not want to give developers an excuse your competitions product. Ideally errors should be displayed the same way (JSON or XML) you would receive the data response. Some of the best RESTful APi’s proudly display basic 404 or 500 errors that help developers either fix their errors or include a query they might have missed in the request.
 
 ###4. Developer Community/API Blogs
 
